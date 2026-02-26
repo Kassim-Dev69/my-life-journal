@@ -18,6 +18,6 @@ mes victoires et mes galères. Une trace honnête de mon évolution... de ma vie
 ## Journal's entries
 
 | Date | Titre |
-|---|---|
-| [26 Février 2026](entries/2026-02-26.md) | Le jour où j'ai commencé |
+|------|---------|
+| [26 Février 2026](entries/2026-02-26.md)    | Le jour où j'ai commencé              |
 
