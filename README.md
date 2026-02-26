@@ -15,5 +15,9 @@ mes victoires et mes galères. Une trace honnête de mon évolution... de ma vie
 - 🎮 VESTIGES — mon futur jeu vidéo AAA (il n'est pas pour maintenant mais je vous le dis 🥲
 - 🤝 SAFE — mon initiative à impact collectif
 
-## Dernière entrée
-*Bientôt...*
+## Journal's entries
+
+| Date | Titre |
+|---|---|
+| [26 Février 2026](entries/2026-02-26.md) | Le jour où j'ai commencé |
+
