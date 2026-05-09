@@ -20,4 +20,6 @@ mes victoires et mes galères. Une trace honnête de mon évolution... de ma vie
 | Date | Titre |
 |------|---------|
 | [26 Février 2026](entries/2026-02-26.md)    | Le jour où j'ai commencé              |
+| [27 Février 2026](entries/2026-02-27.md)    | Ma première vraie nuit de dev         |
+
 
