@@ -24,3 +24,4 @@ mes victoires et mes galères. Une trace honnête de mon évolution... de ma vie
 
 ## 💬 Réagir à une entrée
 Les commentaires sont activés via GitHub Discussions. Clique sur le lien en bas de chaque entrée pour partager ton retour !
+https://github.com/Kassim-Dev69/my-life-journal/discussions
