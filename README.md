@@ -15,11 +15,12 @@ mes victoires et mes galères. Une trace honnête de mon évolution... de ma vie
 - 🎮 VESTIGES — mon futur jeu vidéo AAA (il n'est pas pour maintenant mais je vous le dis 🥲
 - 🤝 SAFE — mon initiative à impact collectif
 
-## Journal's entries
+## 📖 Journal's entries
 
 | Date | Titre |
 |------|---------|
 | [26 Février 2026](entries/2026-02-26.md)    | Le jour où j'ai commencé              |
 | [27 Février 2026](entries/2026-02-27.md)    | Ma première vraie nuit de dev         |
 
-
+## 💬 Réagir à une entrée
+Les commentaires sont activés via GitHub Discussions. Clique sur le lien en bas de chaque entrée pour partager ton retour !
