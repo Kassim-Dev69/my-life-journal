@@ -1,5 +1,8 @@
 [← Retour au profil](https://github.com/Kassim-Dev69)
 
+
+![Bannière](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=my-life-journal&fontSize=40&fontAlignY=35&desc=Mon%20parcours%20en%20dev,%20en%20vrai&descAlignY=55)
+
 # 📓 My Life Journal
 
 > "Je ne fais pas confiance au futur, je le construis."
