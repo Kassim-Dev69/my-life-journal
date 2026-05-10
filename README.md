@@ -37,3 +37,5 @@ https://github.com/Kassim-Dev69/my-life-journal/discussions
 ## 📬 Me contacter
 Tu veux échanger sur un projet, une idée ou juste dire salut ?  
 → [Ouvre une Discussion](https://github.com/Kassim-Dev69/my-life-journal/discussions) ou écris-moi sur [LinkedIn](https://linkedin.com/in/Kassim-Genesis)
+
+![License](https://img.shields.io/github/license/Kassim-Dev69/my-life-journal?style=flat-square&color=green)
